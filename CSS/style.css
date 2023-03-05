@@ -253,9 +253,8 @@ footer{
 .box1 h3{
     text-align: center;
 }
-.box1 i{
-    margin-left: 180px;
-}
+
+
 .box1 p{
     text-align: justify;
 }
@@ -263,9 +262,7 @@ footer{
 .box2 h3{
     text-align: center;
 }
-.box2 i{
-    margin-left: 170px;
-}
+
 .box2 p{
     text-align: justify;
 }
@@ -273,10 +270,14 @@ footer{
 .box3 h3{
     text-align: center;
 }
-.box3 i{
-    margin-left: 180px;
-}
+
 .box3 p{
     text-align: justify;
 }
 
+#icon{
+    position: relative;
+    
+    justify-content: center;
+    align-items: center;
+}
